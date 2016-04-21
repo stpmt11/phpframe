@@ -25,4 +25,16 @@
 		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
 		<nature>org.eclipse.php.core.PHPNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>classAuth.php</name>
+			<type>1</type>
+			<location>/home/stpmt11/git/phpframe/PhpFrame/classAuth.php</location>
+		</link>
+		<link>
+			<name>classDB-mysql.php</name>
+			<type>1</type>
+			<location>/home/stpmt11/git/phpframe/PhpFrame/classDB-mysql.php</location>
+		</link>
+	</linkedResources>
 </projectDescription>
